@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "antm-demo",
+    "icon": "./images/app-icon.png",
+    "version": "1.0.0",
+    "slug": "antm-demo",
+    "sdkVersion": "21.0.0",
+    "ios": {
+      "bundleIdentifier": "com.Tiny.antm-demo"
+    },
+    "android": {
+      "package": "com.Tiny.antm-demo"
+    }
+  }
+}
